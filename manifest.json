@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "litestar-org",
+  "repo": "awesome-litestar",
+  "versions": [
+    {
+      "commit": "18a06dba3edf411a7d539c703a8468959a6138cd",
+      "parsed_at": "2026-10-21T03:19:56.135867+00:00",
+      "filetree": "filetree/18a06dba3edf411a7d539c703a8468959a6138cd.nq.gz",
+      "blobs": [
+        "blob/4576f00c7619304f96e4e71016adcb44884fe1d9.nq.gz",
+        "blob/0a4e75c9b3951cd9f2dba6925036bc7b542af9fb.nq.gz",
+        "blob/d932a95fe5139cbb4a498f758329ed8ff9ebf422.nq.gz",
+        "blob/2176e3782c07e5635e70f56bf93dcaef31928676.nq.gz",
+        "blob/07fe87db27d0143127c12bb76bc70cdf669b1f14.nq.gz",
+        "blob/8600db6a92a167d38f930e4ee2f684da9fe78dad.nq.gz",
+        "blob/74142023ac3f44bd90db66fad4480ebfbe6488be.nq.gz",
+        "blob/6c97be0d364b4055420de63de1cd24ef4d98a74b.nq.gz",
+        "blob/4e6d77aa828f3c6b908b155dc38a880df9da7396.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
